@@ -1,5 +1,5 @@
 # Heart-Failure-Prediction
-The subject of this repository was to perform binary classification based on patient's collected features (age, cholesterol level, fasting blood sugar, thallium test results, etc.). We implemented different machine learning models which can categorize these labels. We used supervised learning with the scikit-learn library. These algorithms were developed to classify target labels:
+The subject of this repository was to perform binary classification based on patient's collected features (age, cholesterol level, fasting blood sugar, thallium stress test results, etc.). We implemented different machine learning models which can categorize these labels. We used supervised learning with the scikit-learn library. These algorithms were developed to classify target labels:
 * logistic regression,
 * k-nearest neighbors,
 * support vector machines,
